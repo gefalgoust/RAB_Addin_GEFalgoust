@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RAB Challenges</Name>
+    <Assembly>RAB_Addin_GEFalgoust\RAB_Addin_GEFalgoust.dll</Assembly>
+    <FullClassName>RAB_Addin_GEFalgoust.App</FullClassName>
+    <ClientId>505b62ce-f56d-4dac-aacf-c1417f90cb3c</ClientId>
+    <VendorId>Revit Add-in Bootcamp</VendorId>
+    <VendorDescription>Revit Add-in Bootcamp, https://academy.archsmarter.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB Skills Module 01</Text>
+    <Description>RAB Skills Module 01</Description>
+    <Assembly>RAB_Addin_GEFalgoust\RAB_Addin_GEFalgoust.dll</Assembly>
+    <FullClassName>RAB_Addin_GEFalgoust.cmdSkills01</FullClassName>
+    <ClientId>68513da3-3fc1-498e-ac49-dae59e5f1cd0</ClientId>
+    <VendorId>Revit Add-in Bootcamp</VendorId>
+    <VendorDescription>Revit Add-in Bootcamp, https://academy.archsmarter.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB Skills Module 02</Text>
+    <Description>RAB Skills Module 02</Description>
+    <Assembly>RAB_Addin_GEFalgoust\RAB_Addin_GEFalgoust.dll</Assembly>
+    <FullClassName>RAB_Addin_GEFalgoust.cmdSkills02</FullClassName>
+    <ClientId>FA6BF3EA-5BEF-4B9D-ADA1-91BFF0EB3D90</ClientId>
+    <VendorId>Revit Add-in Bootcamp</VendorId>
+    <VendorDescription>Revit Add-in Bootcamp, https://academy.archsmarter.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
